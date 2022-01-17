@@ -1,3 +1,9 @@
+/*fonts */
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Poppins:ital,wght@0,300;0,400;0,500;1,500&family=Spline+Sans:wght@500;600&family=The+Nautigal:wght@700&display=swap');
+/* end fonts */
+/* font famili */
+body {font-family: 'Poppins', sans-serif;}
+/* end font family */
 /* top player style*/
 .players {
   display: grid;
